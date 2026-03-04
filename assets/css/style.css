@@ -3653,12 +3653,3 @@ textarea.form-control {
     max-width: 1325px !important;
   }
 }
-
-.pg {
-  background-image: url("../img/gallery1/rr1.jpg"); background-repeat: no-repeat;
-  background-size: contain;
-  max-width: 100%;
-  /* width: 600px; */
-  height: 500px;
-
-}
